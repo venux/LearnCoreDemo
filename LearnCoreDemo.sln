@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseKnowledgeDemo", "BaseKn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzDemo", "QuartzDemo\QuartzDemo.csproj", "{650322BD-2946-4EDE-88D9-C1739866BB23}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{100E0DBC-E7BB-4F17-A661-120C63870419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{650322BD-2946-4EDE-88D9-C1739866BB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{650322BD-2946-4EDE-88D9-C1739866BB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{650322BD-2946-4EDE-88D9-C1739866BB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100E0DBC-E7BB-4F17-A661-120C63870419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100E0DBC-E7BB-4F17-A661-120C63870419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100E0DBC-E7BB-4F17-A661-120C63870419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100E0DBC-E7BB-4F17-A661-120C63870419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
